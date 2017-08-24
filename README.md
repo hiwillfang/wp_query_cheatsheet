@@ -1,2 +1,2 @@
 # wp_query_cheatsheet
-Wordpress query reference guide.
+Wordpress query arguments reference guide.

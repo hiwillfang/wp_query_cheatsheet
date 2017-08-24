@@ -116,7 +116,7 @@ $args = array(
 																							 
 																							 
 //////Time Parameters - Show posts associated with a certain time period.
-    'year' => 2017,                         //(int) - 4 digit year (e.g. 2011).
+    'year' => 2017,                         //(int) - 4 digit year (e.g. 2017).
     'monthnum' => 3,                        //(int) - Month number (from 1 to 12).
     'w' =>  25,                             //(int) - Week of the year (from 0 to 53). Uses the MySQL WEEK command. The mode is dependenon the "start_of_week" option.
     'day' => 17,                            //(int) - Day of the month (from 1 to 31).
